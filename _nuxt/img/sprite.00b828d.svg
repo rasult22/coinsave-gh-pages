@@ -66,4 +66,9 @@
     <path d="M17 11.25L12 16.25L7 11.25" stroke="#F7A035" stroke-width="1.5" stroke-linecap="round"></path>
   </symbol>
 
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" id="check-green">
+    <rect width="12" height="12" rx="6" fill="#01AC6A"></rect>
+    <path d="M3.85742 6.71745L5.24204 8.14118L8.14314 3.85547" stroke="white" stroke-linecap="round"></path>
+  </symbol>
+
 </svg>
